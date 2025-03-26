@@ -4,6 +4,7 @@ __pycache__/
 
 # Virtual environment
 venv/
+.env
 
 # Static files
 app/static/audio/
